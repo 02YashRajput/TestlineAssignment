@@ -2,9 +2,10 @@
 
 This is a Next.js project created as part of the Testline assignment. The application allows users to take a quiz with various questions, providing a quiz-like structure to assess user knowledge.
 
-## Features
+## Project Overview
 - **Next.js** for server-side rendering and static site generation.
 - **Tailwind CSS** for utility-first CSS styling.
+- **ShadCN UI** for building customizable and accessible UI components.
 - **TypeScript (TSX)** for type-safe development.
 - **App Router** for routing.
 - **Quiz Structure** that includes multiple-choice questions, timers, and results.
@@ -22,8 +23,8 @@ Before getting started, make sure you have the following installed:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-repository/testline-quiz.git
-   cd testline-quiz
+   git clone https://github.com/02YashRajput/TestlineAssignment.git
+   cd TestlineAssignment/quiz
     ```
 
 2. Install the dependencies:
@@ -52,9 +53,6 @@ To run the application in production mode, run the following command:
     ```bash
     npm run start
     ```
-
-
-## Screenshots
 
 ### Landing Page
 This is how the landing page looks when you first access the application.
